@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8052969-D5E4-4F54-B1E0-B9F15B7CB762}|RecipeRecommendation.Domain\\RecipeRecommendation.Domain.csproj|c:\\developement projects\\reciperecommendation\\reciperecommendation\\recipercommendation\\reciperecommendation.domain\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8052969-D5E4-4F54-B1E0-B9F15B7CB762}|RecipeRecommendation.Domain\\RecipeRecommendation.Domain.csproj|solutionrelative:reciperecommendation.domain\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700D5DE7-186E-432D-B8A7-638EAF5385B5}|RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.csproj|c:\\developement projects\\reciperecommendation\\reciperecommendation\\recipercommendation\\reciperecommendation.webapi\\controllers\\reciperecommedationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700D5DE7-186E-432D-B8A7-638EAF5385B5}|RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.csproj|solutionrelative:reciperecommendation.webapi\\controllers\\reciperecommedationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE29F0-0D55-44C3-9507-897444F6533F}|RecipeRecommendation.Application\\RecipeRecommendation.Application.csproj|c:\\developement projects\\reciperecommendation\\reciperecommendation\\recipercommendation\\reciperecommendation.application\\services\\recommedationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE29F0-0D55-44C3-9507-897444F6533F}|RecipeRecommendation.Application\\RecipeRecommendation.Application.csproj|solutionrelative:reciperecommendation.application\\services\\recommedationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EE8EAC-3534-4CAD-B340-1C6EAD90D79E}|RecipeRecommendation.Infrastructure\\RecipeRecommendation.Infrastructure.csproj|c:\\developement projects\\reciperecommendation\\reciperecommendation\\recipercommendation\\reciperecommendation.infrastructure\\helper\\getresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EE8EAC-3534-4CAD-B340-1C6EAD90D79E}|RecipeRecommendation.Infrastructure\\RecipeRecommendation.Infrastructure.csproj|solutionrelative:reciperecommendation.infrastructure\\helper\\getresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EE8EAC-3534-4CAD-B340-1C6EAD90D79E}|RecipeRecommendation.Infrastructure\\RecipeRecommendation.Infrastructure.csproj|c:\\developement projects\\reciperecommendation\\reciperecommendation\\recipercommendation\\reciperecommendation.infrastructure\\services\\geminiaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EE8EAC-3534-4CAD-B340-1C6EAD90D79E}|RecipeRecommendation.Infrastructure\\RecipeRecommendation.Infrastructure.csproj|solutionrelative:reciperecommendation.infrastructure\\services\\geminiaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EE8EAC-3534-4CAD-B340-1C6EAD90D79E}|RecipeRecommendation.Infrastructure\\RecipeRecommendation.Infrastructure.csproj|c:\\developement projects\\reciperecommendation\\reciperecommendation\\recipercommendation\\reciperecommendation.infrastructure\\settings\\googleapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EE8EAC-3534-4CAD-B340-1C6EAD90D79E}|RecipeRecommendation.Infrastructure\\RecipeRecommendation.Infrastructure.csproj|solutionrelative:reciperecommendation.infrastructure\\settings\\googleapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700D5DE7-186E-432D-B8A7-638EAF5385B5}|RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.csproj|c:\\developement projects\\reciperecommendation\\reciperecommendation\\recipercommendation\\reciperecommendation.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{700D5DE7-186E-432D-B8A7-638EAF5385B5}|RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.csproj|solutionrelative:reciperecommendation.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700D5DE7-186E-432D-B8A7-638EAF5385B5}|RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.csproj|c:\\developement projects\\reciperecommendation\\reciperecommendation\\recipercommendation\\reciperecommendation.webapi\\reciperecommendation.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{700D5DE7-186E-432D-B8A7-638EAF5385B5}|RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.csproj|solutionrelative:reciperecommendation.webapi\\reciperecommendation.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700D5DE7-186E-432D-B8A7-638EAF5385B5}|RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.csproj|c:\\developement projects\\reciperecommendation\\reciperecommendation\\recipercommendation\\reciperecommendation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700D5DE7-186E-432D-B8A7-638EAF5385B5}|RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.csproj|solutionrelative:reciperecommendation.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetResponse.cs",
+              "DocumentMoniker": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.Infrastructure\\Helper\\GetResponse.cs",
+              "RelativeDocumentMoniker": "RecipeRecommendation.Infrastructure\\Helper\\GetResponse.cs",
+              "ToolTip": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.Infrastructure\\Helper\\GetResponse.cs",
+              "RelativeToolTip": "RecipeRecommendation.Infrastructure\\Helper\\GetResponse.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:56:34.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeminiAIService.cs",
+              "DocumentMoniker": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.Infrastructure\\Services\\GeminiAIService.cs",
+              "RelativeDocumentMoniker": "RecipeRecommendation.Infrastructure\\Services\\GeminiAIService.cs",
+              "ToolTip": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.Infrastructure\\Services\\GeminiAIService.cs",
+              "RelativeToolTip": "RecipeRecommendation.Infrastructure\\Services\\GeminiAIService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:56:22.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoogleApiSettings.cs",
+              "DocumentMoniker": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.Infrastructure\\Settings\\GoogleApiSettings.cs",
+              "RelativeDocumentMoniker": "RecipeRecommendation.Infrastructure\\Settings\\GoogleApiSettings.cs",
+              "ToolTip": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.Infrastructure\\Settings\\GoogleApiSettings.cs",
+              "RelativeToolTip": "RecipeRecommendation.Infrastructure\\Settings\\GoogleApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:56:19.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.Domain\\Entities\\Recipe.cs",
+              "RelativeDocumentMoniker": "RecipeRecommendation.Domain\\Entities\\Recipe.cs",
+              "ToolTip": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.Domain\\Entities\\Recipe.cs",
+              "RelativeToolTip": "RecipeRecommendation.Domain\\Entities\\Recipe.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:25:07.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecommedationService.cs",
+              "DocumentMoniker": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.Application\\Services\\RecommedationService.cs",
+              "RelativeDocumentMoniker": "RecipeRecommendation.Application\\Services\\RecommedationService.cs",
+              "ToolTip": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.Application\\Services\\RecommedationService.cs",
+              "RelativeToolTip": "RecipeRecommendation.Application\\Services\\RecommedationService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAlwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T16:06:44.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeRecommedationController.cs",
+              "DocumentMoniker": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.WebApi\\Controllers\\RecipeRecommedationController.cs",
+              "RelativeDocumentMoniker": "RecipeRecommendation.WebApi\\Controllers\\RecipeRecommedationController.cs",
+              "ToolTip": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.WebApi\\Controllers\\RecipeRecommedationController.cs",
+              "RelativeToolTip": "RecipeRecommendation.WebApi\\Controllers\\RecipeRecommedationController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:13:17.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RecipeRecommendation.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "RecipeRecommendation.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T18:00:17.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "RecipeRecommendation.WebApi\\Program.cs",
+              "ToolTip": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.WebApi\\Program.cs",
+              "RelativeToolTip": "RecipeRecommendation.WebApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:16:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecipeRecommendation.WebApi.http",
+              "DocumentMoniker": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.http",
+              "RelativeDocumentMoniker": "RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.http",
+              "ToolTip": "C:\\Developement Projects\\RecipeRecommendation\\RecipeRecommendation\\RecipeRcommendation\\RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.http",
+              "RelativeToolTip": "RecipeRecommendation.WebApi\\RecipeRecommendation.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-28T16:15:04.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

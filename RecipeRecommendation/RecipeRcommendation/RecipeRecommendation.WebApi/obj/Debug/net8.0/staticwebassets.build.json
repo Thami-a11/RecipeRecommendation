@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "e9b6RL6/hHhJg9uhYUsGUN+6W62e6KmD2JTMjLiwYc8=",
+  "Source": "RecipeRecommendation.WebApi",
+  "BasePath": "_content/RecipeRecommendation.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,10 @@
+@RecipeRecommendation.WebApi_HostAddress = http://localhost:5056
+
+GET {{RecipeRecommendation.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+
+ {{RecipeRecommendation.WebApi_HostAddress}}/recommend/
+Content-Type: application/json
+Accept: application/json
+###

@@ -1,0 +1,11 @@
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\bin\Debug\net8.0\RecipeRecommendation.Domain.deps.json
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\bin\Debug\net8.0\RecipeRecommendation.Domain.dll
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\bin\Debug\net8.0\RecipeRecommendation.Domain.pdb
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.AssemblyInfoInputs.cache
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.AssemblyInfo.cs
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.csproj.CoreCompileInputs.cache
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.dll
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\refint\RecipeRecommendation.Domain.dll
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.pdb
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\ref\RecipeRecommendation.Domain.dll

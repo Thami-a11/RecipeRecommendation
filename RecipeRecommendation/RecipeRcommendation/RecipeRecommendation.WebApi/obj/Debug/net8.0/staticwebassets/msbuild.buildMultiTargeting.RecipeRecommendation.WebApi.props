@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RecipeRecommendation.WebApi.props" />
+</Project>

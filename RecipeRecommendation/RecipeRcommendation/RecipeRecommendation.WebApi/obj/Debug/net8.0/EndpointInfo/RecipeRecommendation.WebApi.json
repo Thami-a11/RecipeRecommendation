@@ -1,0 +1,88 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "RecipeRecommendation.WebApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/RecipeRecommedation/recommend": {
+      "post": {
+        "tags": [
+          "RecipeRecommedation"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GivenIngredients"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GivenIngredients"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GivenIngredients"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/RecipeRecommedation/recommendAsString": {
+      "post": {
+        "tags": [
+          "RecipeRecommedation"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GivenIngredients"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GivenIngredients"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/GivenIngredients"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "GivenIngredients": {
+        "type": "object",
+        "properties": {
+          "ingredients": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

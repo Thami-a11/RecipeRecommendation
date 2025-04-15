@@ -1,0 +1,15 @@
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\bin\Debug\net8.0\RecipeRecommendation.Application.deps.json
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\bin\Debug\net8.0\RecipeRecommendation.Application.dll
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\bin\Debug\net8.0\RecipeRecommendation.Application.pdb
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\obj\Debug\net8.0\RecipeRecommendation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\obj\Debug\net8.0\RecipeRecommendation.Application.AssemblyInfoInputs.cache
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\obj\Debug\net8.0\RecipeRecommendation.Application.AssemblyInfo.cs
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\obj\Debug\net8.0\RecipeRecommendation.Application.csproj.CoreCompileInputs.cache
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\obj\Debug\net8.0\RecipeRecommendation.Application.dll
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\obj\Debug\net8.0\refint\RecipeRecommendation.Application.dll
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\obj\Debug\net8.0\RecipeRecommendation.Application.pdb
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\obj\Debug\net8.0\ref\RecipeRecommendation.Application.dll
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\obj\Debug\net8.0\RecipeRecommendation.Application.csproj.AssemblyReference.cache
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\bin\Debug\net8.0\RecipeRecommendation.Domain.dll
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\bin\Debug\net8.0\RecipeRecommendation.Domain.pdb
+C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Application\obj\Debug\net8.0\RecipeRe.EC36AA7F.Up2Date

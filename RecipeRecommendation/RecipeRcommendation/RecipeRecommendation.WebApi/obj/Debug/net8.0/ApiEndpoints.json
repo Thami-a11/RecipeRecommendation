@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "RecipeRecommendation.WebApi.Controllers.RecipeRecommedationController",
+    "Method": "GetRecommendedRecipes",
+    "RelativePath": "api/RecipeRecommedation/recommend",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ingredients",
+        "Type": "RecipeRecommendation.Domain.Entities.GivenIngredients",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecipeRecommendation.WebApi.Controllers.RecipeRecommedationController",
+    "Method": "GetRecommendedRecipesAsString",
+    "RelativePath": "api/RecipeRecommedation/recommendAsString",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ingredients",
+        "Type": "RecipeRecommendation.Domain.Entities.GivenIngredients",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
