@@ -7,7 +7,7 @@ interface RecipeFetcherProps {
   onGetRecipes : (recipes: Recipe[]) => void;
 }
 
-function IngredientsCard({ onGetRecipes }) {
+export default function IngredientsCard() {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
 
@@ -43,4 +43,3 @@ function IngredientsCard({ onGetRecipes }) {
   )
 }
 
-export default IngredientsCard
