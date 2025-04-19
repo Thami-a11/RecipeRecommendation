@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 using RecipeRecommendation.Domain.Entities;
 using RecipeRecommendation.Domain.Interfaces;
 
 namespace RecipeRecommendation.WebApi.Controllers
 {
+    [EnableCors]
     [ApiController]
     [Route("api/[controller]")]
     public class RecipeRecommedationController : ControllerBase

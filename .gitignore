@@ -1,0 +1,32 @@
+# Node.js/React Frontend (Client/RecipeRecommendation)
+Client/RecipeRecommendation/node_modules/
+Client/RecipeRecommendation/dist/
+Client/RecipeRecommendation/build/
+Client/RecipeRecommendation/.vite/
+Client/RecipeRecommendation/.vite-temp/
+Client/RecipeRecommendation/.env
+Client/RecipeRecommendation/.env.local
+Client/RecipeRecommendation/.env.development
+Client/RecipeRecommendation/.env.production
+
+# .NET Backend (RecipeRecommendation/RecipeRcommendation)
+RecipeRecommendation/RecipeRcommendation/**/bin/
+RecipeRecommendation/RecipeRcommendation/**/obj/
+RecipeRecommendation/RecipeRcommendation/**/appsettings.Development.json
+RecipeRecommendation/RecipeRcommendation/**/appsettings.*.json
+RecipeRecommendation/RecipeRcommendation/.vs/
+RecipeRecommendation/RecipeRcommendation/**/CopilotIndices/
+RecipeRecommendation/RecipeRcommendation/**/DesignTimeBuild/
+RecipeRecommendation/RecipeRcommendation/**/FileContentIndex/
+
+# General Ignores (apply to both projects)
+*.log
+.DS_Store
+*.bak
+*.swp
+*.tmp
+.vscode/
+.idea/
+
+# GitHub Actions Artifacts
+.github/workflows/*.cache
