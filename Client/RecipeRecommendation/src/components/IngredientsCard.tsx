@@ -3,9 +3,9 @@ import { getRecipes } from "../api/api"
 import { Recipe } from "../api/Types/recipe";
 
 
-interface RecipeFetcherProps {
-  onGetRecipes : (recipes: Recipe[]) => void;
-}
+// interface RecipeFetcherProps {
+//   onGetRecipes : (recipes: Recipe[]) => void;
+// }
 
 export default function IngredientsCard() {
   const [recipes, setRecipes] = useState<Recipe[]>([]);
