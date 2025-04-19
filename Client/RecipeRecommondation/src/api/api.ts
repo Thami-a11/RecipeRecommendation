@@ -1,7 +1,9 @@
+import { Recipe } from "./Types/recipe";
+
 const API_BASE = "https://localhost:7204/api";
 
-export const getRecipes = async (ingredients: string[]) => {
-  const response = await fetch(`${API_BASE}/Recommend`, {
+export const getRecipes = async (ingredients: string[]): Promise<Recipe[]> => {
+  const response = await fetch(`${API_BASE}/RecipeRecommedation/recommend`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
@@ -12,6 +14,9 @@ export const getRecipes = async (ingredients: string[]) => {
   if (!response.ok) {
     throw new Error("Failed to fetch recipes");
   }
+  
+  const recipes: Recipe[] = await response.json();
 
-  return response.json();
+
+  return recipes;
 };

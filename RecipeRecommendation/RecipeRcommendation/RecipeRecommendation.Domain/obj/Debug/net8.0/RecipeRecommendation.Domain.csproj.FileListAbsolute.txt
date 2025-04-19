@@ -9,3 +9,15 @@ C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommen
 C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\refint\RecipeRecommendation.Domain.dll
 C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.pdb
 C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\ref\RecipeRecommendation.Domain.dll
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\bin\Debug\net8.0\RecipeRecommendation.Domain.deps.json
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\bin\Debug\net8.0\RecipeRecommendation.Domain.dll
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\bin\Debug\net8.0\RecipeRecommendation.Domain.pdb
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.AssemblyInfoInputs.cache
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.AssemblyInfo.cs
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.sourcelink.json
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.dll
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\refint\RecipeRecommendation.Domain.dll
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\RecipeRecommendation.Domain.pdb
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Domain\obj\Debug\net8.0\ref\RecipeRecommendation.Domain.dll

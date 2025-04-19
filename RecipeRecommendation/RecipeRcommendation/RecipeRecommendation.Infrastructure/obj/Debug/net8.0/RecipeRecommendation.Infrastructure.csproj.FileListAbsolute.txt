@@ -15,3 +15,21 @@ C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommen
 C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\bin\Debug\net8.0\RecipeRecommendation.Domain.pdb
 C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\RecipeRecommendation.Infrastructure.csproj.AssemblyReference.cache
 C:\Developement Projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\RecipeRe.752F0FB3.Up2Date
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\bin\Debug\net8.0\RecipeRecommendation.Infrastructure.deps.json
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\bin\Debug\net8.0\RecipeRecommendation.Infrastructure.dll
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\bin\Debug\net8.0\RecipeRecommendation.Infrastructure.pdb
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\bin\Debug\net8.0\RecipeRecommendation.Application.dll
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\bin\Debug\net8.0\RecipeRecommendation.Domain.dll
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\bin\Debug\net8.0\RecipeRecommendation.Application.pdb
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\bin\Debug\net8.0\RecipeRecommendation.Domain.pdb
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\RecipeRecommendation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\RecipeRecommendation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\RecipeRecommendation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\RecipeRecommendation.Infrastructure.AssemblyInfo.cs
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\RecipeRecommendation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\RecipeRecommendation.Infrastructure.sourcelink.json
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\RecipeRe.752F0FB3.Up2Date
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\RecipeRecommendation.Infrastructure.dll
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\refint\RecipeRecommendation.Infrastructure.dll
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\RecipeRecommendation.Infrastructure.pdb
+C:\Users\nkopa\projects\RecipeRecommendation\RecipeRecommendation\RecipeRcommendation\RecipeRecommendation.Infrastructure\obj\Debug\net8.0\ref\RecipeRecommendation.Infrastructure.dll
